@@ -15,4 +15,11 @@ public class HelloTest {
         System.out.println("project........");
         System.out.println("project........");
     }
+
+
+    public void test(){
+        int a = 0;
+        a += 1;
+        System.out.println(a);
+    }
 }
